@@ -1,4 +1,3 @@
-
 # Sveltekit + Tailwind CSS + Shadcn svelte Boilerplate with Darkmode
 
 This is a simple boilerplate project for getting started with a web development project using sveltekit and Tailwind CSS, powered by Vite.
@@ -9,7 +8,7 @@ This is a simple boilerplate project for getting started with a web development 
 - ✅ Tailwind CSS: Utilize the power of Tailwind CSS to create highly customizable and responsive UI components.
 - ✅ Vite: Enjoy a fast development experience with Vite's blazing-fast build tooling.
 - ✅ Darkmode: Darkmode from shadcn svelte
-  
+
 <br><br>
 
 ## 🎯 Getting Started
@@ -42,7 +41,8 @@ pnpm run dev
 
 <br><br>
 
-# 📌  Project structure 
+# 📌 Project structure
+
 ```md
 ├── src
 │   ├── lib
@@ -52,17 +52,17 @@ pnpm run dev
 │   │   │   │   │   ├── button.svelte
 │   │   │   │   │   └── index.ts
 │   │   │   │   └── dropdown-menu
-│   │   │   │       ├── dropdown-menu-checkbox-item.svelte
-│   │   │   │       ├── dropdown-menu-content.svelte
-│   │   │   │       ├── dropdown-menu-item.svelte
-│   │   │   │       ├── dropdown-menu-label.svelte
-│   │   │   │       ├── dropdown-menu-radio-group.svelte
-│   │   │   │       ├── dropdown-menu-radio-item.svelte
-│   │   │   │       ├── dropdown-menu-separator.svelte
-│   │   │   │       ├── dropdown-menu-shortcut.svelte
-│   │   │   │       ├── dropdown-menu-sub-content.svelte
-│   │   │   │       ├── dropdown-menu-sub-trigger.svelte
-│   │   │   │       └── index.ts
+│   │   │   │   ├── dropdown-menu-checkbox-item.svelte
+│   │   │   │   ├── dropdown-menu-content.svelte
+│   │   │   │   ├── dropdown-menu-item.svelte
+│   │   │   │   ├── dropdown-menu-label.svelte
+│   │   │   │   ├── dropdown-menu-radio-group.svelte
+│   │   │   │   ├── dropdown-menu-radio-item.svelte
+│   │   │   │   ├── dropdown-menu-separator.svelte
+│   │   │   │   ├── dropdown-menu-shortcut.svelte
+│   │   │   │   ├── dropdown-menu-sub-content.svelte
+│   │   │   │   ├── dropdown-menu-sub-trigger.svelte
+│   │   │   │   └── index.ts
 │   │   │   └── ThemeToggle.svelte
 │   │   ├── index.ts
 │   │   └── utils.ts

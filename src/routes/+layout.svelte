@@ -1,7 +1,7 @@
 <script>
-	 import { ModeWatcher } from "mode-watcher";
+	import { ModeWatcher } from 'mode-watcher';
 	import '$styles/app.css';
-	import ThemeToggle from "$lib/components/ThemeToggle.svelte";
+	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 </script>
 
 <svelte:head>
@@ -13,4 +13,3 @@
 	<ThemeToggle />
 </div>
 <slot />
-
